@@ -2,11 +2,11 @@ import streamlit as st
 from datetime import time, datetime
 import time
 
-st.title('欢迎访问自我关怀')
+st.title('欢迎访问自我关怀站点')
 with st.expander('关于专栏'):
   st.image("https://qiniu.production.link3.cc/profile_images/1694315147716", width=200)
   st.markdown("*从* **今天起** ***自我关怀***")
-  st.markdown("***link3.cc/zijiu***")
+  st.markdown("***专栏访问地址 link3.cc/zijiu***")
   st.markdown('''
     :red[保健意识] :orange[身心健康] :green[体育锻炼] :blue[健康饮食] :violet[生活方式]
     :gray[卫生习惯] :rainbow[保健食品].''')
@@ -18,7 +18,7 @@ with st.expander('关于专栏'):
 st.header('自我关怀宣言', divider='rainbow')
 
 multi = '''
-自我保健是一套实用的、以人为本的活动，我们都应该采取这些活动来保持我们的健康、健康和幸福。
+自我保健是一套实用的、以人为本的活动，我们都应该采取这些活动来保持我们的健康和幸福。
 自我照顾只能由个人自己承担，尽管更广阔的环境可以提供重要的帮助或存在重大的障碍。
 自我照顾是每个人日常生活中很正常的一部分，无论他们的情况如何，都有意识或无意识地参与其中。
 然而，在使自我保健更加明确和增强其在个人、家庭、社区和国家卫生方面的作用方面，仍有很大的潜力。
@@ -60,5 +60,5 @@ st.markdown(multi)
 
 st.subheader("自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动")
 
-st.write("专栏访问网址 https://link3.cc/zijiu")
+st.write("行动→监督→认识→评估→行动 https://link3.cc/zijiu")
 
