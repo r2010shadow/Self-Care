@@ -2,10 +2,11 @@ import streamlit as st
 from datetime import time, datetime
 import time
 
-st.title('欢迎访问link3.cc/zijiu')
+st.title('欢迎访问 link3.cc/zijiu')
 with st.expander('关于自我关怀专栏'):
   st.image("https://qiniu.production.link3.cc/profile_images/1694315147716", width=200)
   st.markdown("*从* **今天起** ***自我关怀***.")
+  st.markdown("***link3.cc/zijiu***.")
   st.markdown('''
     :red[保健意识] :orange[身心健康] :green[体育锻炼] :blue[健康饮食] :violet[生活方式]
     :gray[卫生习惯] :rainbow[保健食品].''')
@@ -57,5 +58,5 @@ multi = '''
 st.markdown(multi)
 
 
-st.write("欢迎访问 https://link3.cc/zijiu")
+st.subheader("欢迎访问 https://link3.cc/zijiu")
 
