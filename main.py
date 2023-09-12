@@ -62,8 +62,7 @@ st.caption(":blue[自我关怀是一种终生的习惯和文化，是个人为�
 
 if st.button('行动!✨'):
   st.balloons()
-
-st.success('https://link3.cc/zijiu!', icon="✅")
+  st.success(' https://link3.cc/zijiu! ', icon="✅")
 
 
 
