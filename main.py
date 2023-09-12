@@ -5,14 +5,14 @@ import time
 st.title('欢迎访问 link3.cc/zijiu')
 with st.expander('关于自我关怀专栏'):
   st.image("https://qiniu.production.link3.cc/profile_images/1694315147716", width=200)
-  st.markdown("*从* **今天起** ***自我关怀***.")
-  st.markdown("***link3.cc/zijiu***.")
+  st.markdown("*从* **今天起** ***自我关怀***")
+  st.markdown("***link3.cc/zijiu***")
   st.markdown('''
     :red[保健意识] :orange[身心健康] :green[体育锻炼] :blue[健康饮食] :violet[生活方式]
     :gray[卫生习惯] :rainbow[保健食品].''')
   st.markdown(":tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
-  multi = '''告别无数个辗转反侧的夜晚、心灰意冷与叹息，让生活步入正轨，必须先振作自己'''
+  multi = '''告别无数个辗转反侧的夜晚、心灰意冷与叹息，让生活步入正轨'''
   st.markdown(multi)
 
 st.header('自我关怀宣言', divider='rainbow')
