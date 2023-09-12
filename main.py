@@ -61,4 +61,7 @@ st.markdown(multi)
 st.subheader("自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动")
 
 st.write("行动→监督→认识→评估→行动 https://link3.cc/zijiu")
+if st.button('行动!✨'):
+  st.balloons()
+
 
