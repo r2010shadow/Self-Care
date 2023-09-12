@@ -2,8 +2,8 @@ import streamlit as st
 from datetime import time, datetime
 import time
 
-st.title('欢迎访问 link3.cc/zijiu')
-with st.expander('关于自我关怀专栏'):
+st.title('欢迎访问自我关怀')
+with st.expander('关于专栏'):
   st.image("https://qiniu.production.link3.cc/profile_images/1694315147716", width=200)
   st.markdown("*从* **今天起** ***自我关怀***")
   st.markdown("***link3.cc/zijiu***")
@@ -12,7 +12,7 @@ with st.expander('关于自我关怀专栏'):
     :gray[卫生习惯] :rainbow[保健食品].''')
   st.markdown(":tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
-  multi = '''告别无数个辗转反侧的夜晚、心灰意冷与叹息，让生活步入正轨'''
+  multi = '''自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动'''
   st.markdown(multi)
 
 st.header('自我关怀宣言', divider='rainbow')
@@ -58,5 +58,5 @@ multi = '''
 st.markdown(multi)
 
 
-st.subheader("欢迎访问 https://link3.cc/zijiu")
+st.subheader("自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动 -> https://link3.cc/zijiu")
 
