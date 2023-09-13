@@ -57,7 +57,7 @@ multi = '''
 '''
 st.markdown(multi)
 
-st.image("https://isfglobal.org/wp-content/uploads/2014/06/self-care-iceberg.jpg", width=100)
+st.image("https://isfglobal.org/wp-content/uploads/2014/06/self-care-iceberg.jpg")
 st.caption(":blue[自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动] :sunglasses:")
 
 if st.button('行动!✨'):
