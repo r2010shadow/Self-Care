@@ -5,7 +5,7 @@ import time
 st.title('欢迎访问自我关怀站点')
 with st.expander('关于专栏'):
   st.image("https://qiniu.production.link3.cc/profile_images/1694315147716", width=100)
-  st.markdown("*从* **今天起** ***自我关怀***")
+  st.markdown("**从今天起** ***自我关怀***")
   st.markdown("***专栏访问地址 link3.cc/zijiu***")
   st.markdown('''
     :red[保健意识] :orange[身心健康] :green[体育锻炼] :blue[健康饮食] :violet[生活方式]
@@ -57,7 +57,7 @@ multi = '''
 '''
 st.markdown(multi)
 
-
+st.image("https://isfglobal.org/wp-content/uploads/2014/06/self-care-iceberg.jpg", width=100)
 st.caption(":blue[自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动] :sunglasses:")
 
 if st.button('行动!✨'):
