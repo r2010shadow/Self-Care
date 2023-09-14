@@ -19,6 +19,7 @@ st.header('自我关怀',divider='rainbow')
 
 multi = '''
 :tulip::cherry_blossom::tulip:自我关怀:tulip::cherry_blossom::tulip:
+
 大多数人都相当健康，像孩子一样好。然而，随着年龄的增长，我们面临着生活中的挑战和诱惑，比如食物、酒精和烟草，以及久坐不动的生活方式。我们面临着选择和风险。
 
 不幸的是，这些选择的共同结果——肥胖、缺乏身体活动、吸烟、酗酒和不健康饮食——是当今心脏病发作和中风、癌症、糖尿病、慢性呼吸系统疾病和其他“非传染性疾病”流行的原因。
@@ -29,6 +30,7 @@ multi = '''
 
 
 :sunflower::blossom::sunflower::blossom:Self-Care:sunflower::blossom::sunflower::blossom:
+
 Most people are reasonably healthy and well as children. As we get older however, we are faced with the challenges and temptations of life such as food, alcohol and tobacco, and the opportunity for sedentary lifestyles. We are faced with choices, and risks.
 
 Unfortunately the common result of these choices – obesity, physical inactivity, tobacco use, alcohol abuse and unhealthy diets – are the cause of today’s epidemic of heart attacks and strokes, cancers, diabetes, chronic respiratory disease and other ‘noncommunicable diseases.’
