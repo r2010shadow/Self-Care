@@ -42,7 +42,7 @@ Is self-care hard to do? Some elements certainly are, such as the difficulty tha
 '''
 st.markdown(multi)
 
-
+st.image("https://gd-hbimg.huabanimg.com/e98c9d9908cf22b81526d6fcd900e5c0993f18b7252e4-tu77xy_fw658webp", width=400)
 
 st.header('自我关怀宣言', divider='rainbow')
 
