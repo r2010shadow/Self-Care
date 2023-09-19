@@ -94,9 +94,17 @@ with col2:
 
 st.caption(":blue[自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动] :sunglasses:")
 
-if st.button('行动!✨'):
-  st.balloons()
-  st.success('.: https://link3.cc/zijiu! :.', icon="✅")
+st.subheader('Tabs')
+tab1, tab2 = st.tabs(["TAB 1", "TAB 2"])
+
+with tab1:
+  if st.button('拥抱多姿多彩的生活!✨'):
+    st.image("https://g.us.sinaimg.cn/o0/4gtSewUUlx088ISUzUR2010412001GYT0E010.mp4?label=gif_mp4&template=720x746.28.0&ssig=L0DDwyxy42&Expires=1695109074&KID=unistore,video", width=600)
+
+with tab2:  
+  if st.button('行动!✨'):
+    st.balloons()
+    st.success('.: https://link3.cc/zijiu! :.', icon="✅")
 
 
 
