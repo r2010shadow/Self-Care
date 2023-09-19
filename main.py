@@ -104,7 +104,7 @@ with tab1:
 with tab2:  
   if st.button('行动!✨'):
     st.balloons()
-    st.success('.: https://link3.cc/zijiu! :.', icon="✅")
+    st.success('https://link3.cc/zijiu', icon="✅")
 
 
 
