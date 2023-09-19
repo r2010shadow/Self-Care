@@ -93,7 +93,7 @@ with col2:
   st.image("https://isfglobal.org/wp-content/uploads/2014/08/Screen-shot-2014-08-14-at-13.51.25.png")
 
 st.caption(":blue[自我关怀是一种终生的习惯和文化，是个人为自己和家人保持健康而采取的行动] :sunglasses:")
-tab1, tab2 = st.tabs(["思前", "想后"])
+tab1, tab2 = st.tabs(["每天好心情", "快乐到永久"])
 
 with tab1:
   if st.button('拥抱多姿多彩的生活!✨'):
