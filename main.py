@@ -101,7 +101,7 @@ with tab1:
     st.success('https://link3.cc/zijiu', icon="✅")
 
 with tab2:  
-  if st.button('行动!✨'):
+  if st.button('快乐出发!✨'):
     st.balloons()
     st.success('https://www.xiaohongshu.com/user/profile/64b71426000000001f0066a0', icon="✅")  
     
